@@ -1,0 +1,16 @@
+1;50;E:\dev\GifMaker\images\horse\1.png
+2;50;E:\dev\GifMaker\images\horse\2.png
+3;50;E:\dev\GifMaker\images\horse\3.png
+4;50;E:\dev\GifMaker\images\horse\4.png
+5;50;E:\dev\GifMaker\images\horse\5.png
+6;50;E:\dev\GifMaker\images\horse\6.png
+7;50;E:\dev\GifMaker\images\horse\7.png
+8;50;E:\dev\GifMaker\images\horse\8.png
+9;50;E:\dev\GifMaker\images\horse\9.png
+10;50;E:\dev\GifMaker\images\horse\10.png
+11;50;E:\dev\GifMaker\images\horse\11.png
+12;50;E:\dev\GifMaker\images\horse\12.png
+13;50;E:\dev\GifMaker\images\horse\13.png
+14;50;E:\dev\GifMaker\images\horse\14.png
+15;50;E:\dev\GifMaker\images\horse\15.png
+16;50;E:\dev\GifMaker\images\horse\16.png

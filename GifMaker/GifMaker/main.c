@@ -33,6 +33,9 @@ int main(void)
 		choice = getChoice();
 		switch (choice)
 		{
+		case OPT_ZERO: // option 0
+			optZero(&head);
+			break;
 		case OPT_ONE: //option 1
 			optOne(&head);
 			break;
@@ -56,9 +59,6 @@ int main(void)
 			break;
 		case OPT_EIGHT: // option 8 (part 2)
 			optEight(&head);
-			break;
-		case OPT_ZERO: // option 0
-			optZero(&head);
 			break;
 		case OPT_NINE: // option 9 BONUS
 			optNine(&head);
